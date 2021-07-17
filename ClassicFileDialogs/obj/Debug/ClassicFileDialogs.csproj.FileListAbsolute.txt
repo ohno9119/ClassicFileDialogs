@@ -1,0 +1,14 @@
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.csprojAssemblyReference.cache
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.Properties.Resources.resources
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.W31OFD.resources
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.csproj.GenerateResource.cache
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.csproj.CoreCompileInputs.cache
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\bin\Debug\ClassicFileDialogs.dll
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\bin\Debug\ClassicFileDialogs.pdb
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.csproj.CopyComplete
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.dll
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.pdb
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.W31SFD.resources
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\obj\Debug\ClassicFileDialogs.W31SDIR.resources
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\bin\Debug\Microsoft.VisualBasic.Compatibility.dll
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFileDialogs\bin\Debug\Microsoft.VisualBasic.dll

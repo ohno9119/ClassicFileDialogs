@@ -1,0 +1,9 @@
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\bin\Debug\ClassicFDTester.exe
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\bin\Debug\ClassicFDTester.pdb
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\bin\Debug\ClassicFileDialogs.dll
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\bin\Debug\ClassicFileDialogs.pdb
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\obj\Debug\ClassicFDTester.csprojAssemblyReference.cache
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\obj\Debug\ClassicFDTester.csproj.CoreCompileInputs.cache
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\obj\Debug\ClassicFDTester.csproj.CopyComplete
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\obj\Debug\ClassicFDTester.exe
+C:\Users\ohno-\source\repos\ClassicFileDialogs\ClassicFDTester\obj\Debug\ClassicFDTester.pdb
