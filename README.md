@@ -13,7 +13,7 @@ FileType JPEGFT;
 JPEGFT.Description = "JPEG Files";
 JPEGFT.Extension = "*.jpg";
 FileType[] AllowedFileType = new FileType[] { PNGFT , JPEGFT };
-  Console.WriteLine(CDLG.SpawnDialog("Select file", AllowedFileType, Icon.ExtractAssociatedIcon(@"C:\Placeholder.ico"),null,DialogStyle.Open31));
+Console.WriteLine(CDLG.SpawnDialog("Select file", AllowedFileType, Icon.ExtractAssociatedIcon(@"C:\Placeholder.ico"),null,DialogStyle.Open31));
 ```
 # To do
 1. .NET Core/.NET 5 port
